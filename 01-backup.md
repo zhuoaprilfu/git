@@ -34,8 +34,7 @@ Here's how Dracula sets up his new laptop:
 ~~~ {.bash}
 $ git config --global user.name "Vlad Dracula"
 $ git config --global user.email "vlad@tran.sylvan.ia"
-$ git config --global color.ui "auto"
-$ git config --global core.editor "nano"
+
 ~~~
 
 (Please use your own name and email address instead of Dracula's,
